@@ -1,5 +1,10 @@
-# Seoul-Bike-Sharing-Demand-Prediction
-Supervised Machine Learning- Linear Regression.
+<h1 align="center"> Seoul Bike Sharing Demand Prediction </h1>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/18574968/205460839-c3e47346-a00f-438a-989d-2084bf5bd91b.jpeg" align = 'center' height='400'>
+</p>
 
 ## 📋 Summary
 
